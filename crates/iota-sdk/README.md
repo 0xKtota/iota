@@ -137,7 +137,7 @@ async fn main() -> Result<(), anyhow::Error> {
 
 ## Advanced examples
 
-See the programmable transactions [example](https://github.com/iotaledger/iota/blob/develop/crates/iota-sdk/examples/programmable_transactions_api.rs).
+See the programmable transactions [example](https://github.com/iotaledger/iota/blob/develop/crates/iota-sdk/examples/transaction_builder/programmable_transactions_api.rs).
 
 ## Games examples
 
